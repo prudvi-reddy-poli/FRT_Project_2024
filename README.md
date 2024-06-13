@@ -4,7 +4,7 @@ This web-based application is specifically developed for a health-related websit
 
 ### This web-based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, GitHub, and EY.
 
-**Project Link** - [Unity Health Hospital](https://polite-forest-08b77ae00.5.azurestaticapps.net/)
+**Project Link** - [Unity Health Hospital](https://red-cliff-085c6c700.5.azurestaticapps.net)
 
 **Project Demo Video Link** - [Watch the Demo](https://youtu.be/ONF2TFodx0Y)
 
