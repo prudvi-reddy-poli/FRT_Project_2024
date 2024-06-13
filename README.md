@@ -47,15 +47,8 @@ This web-based application is specifically developed for a health-related websit
 
 ### Health Bot
 
-![Screenshot 2024-06-08 182034](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/d0a608d6-1d99-4542-8813-32499177af3b)
 
-![Screenshot 2024-06-08 182046](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/a208ee78-6fc6-4da3-91dc-518bfde2d9ab)
-
-![Screenshot 2024-06-08 182109](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/a1ee4aa4-c990-4e35-b0e6-1fde5530ee7a)
-
-![Screenshot 2024-06-08 182121](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/bf5e083f-0d0e-4817-b46a-ddf42f92d1bc)
-
-![Screenshot 2024-06-08 182133](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/a0928857-8926-4976-bbe9-9baf76abee66)
+### Q&A
 
 ## Tech Stack and Skills 🖥️🔧
 
