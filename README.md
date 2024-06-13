@@ -27,19 +27,23 @@ This web-based application is specifically developed for a health-related websit
 
 ### Home Page
 
-![Screenshot 2024-06-08 180205](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/72de455d-be78-4de5-ab21-aa7e94cddb82)
+![Screenshot 2024-06-14 032313](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/0b602ece-22fd-49fc-acd9-3f3333a56b50)
+
 
 ### About Us
 
-![Screenshot 2024-06-08 180318](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/5cc6b020-6f0e-4dcb-aad1-a2f1db54ef5b)
+![Screenshot 2024-06-14 032504](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/b0c4b84e-70f9-430a-84e1-b3fd94e8ae57)
+
 
 ### Services
 
-![Screenshot 2024-06-08 180351](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/d2a79acb-3e25-44e7-8c0f-c92ef400aa15)
+![Screenshot 2024-06-14 032424](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/55518d7c-1949-4076-bfab-0ff9b76bd6b0)
+
 
 ### Contact Us
 
-![Screenshot 2024-06-08 180405](https://github.com/prudvi-reddy-poli/FRT_Project/assets/170856909/3fd9a1ae-b778-4d55-9945-bddc15ff4f6b)
+![Screenshot 2024-06-14 032441](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/42563d83-7f87-4baf-a8dd-7f3c29f0a260)
+
 
 ### Health Bot
 
