@@ -13,6 +13,8 @@ This web-based application is specifically developed for a health-related websit
 - Static Web Apps ☁️🌐
 - Health Bot 🤖💬
 - Visual Studio Code 🖥️📝
+- QnA Maker 🧠💡
+- Azure AI Bot Service 🤖🔧
 
 ## Features and Functionalities 🌟
 
