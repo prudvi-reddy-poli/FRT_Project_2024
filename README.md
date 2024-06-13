@@ -55,6 +55,21 @@ This web-based application is specifically developed for a health-related websit
 ![Screenshot 2024-06-14 042506](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/6bf2d758-6df8-4837-bddc-0975f2605e27)
 
 ### Q&A
+![Screenshot 2024-06-14 043134](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/e3613629-01b7-4c75-9092-cb43c219608e)
+![Screenshot 2024-06-14 043151](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/fab1d437-421f-44cc-8ba9-871e0def1a36)
+![Screenshot 2024-06-14 043202](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/2cd4f882-b49a-4e7d-8555-451f839c5f83)
+![Screenshot 2024-06-14 043215](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/c5b79fc6-6f53-43ab-8598-96a15522a278)
+![Screenshot 2024-06-14 043226](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/fcac3440-65d6-499b-92b0-725941a5c85c)
+
+### Scenario Management For Azure Healthbot
+![Screenshot 2024-06-14 043439](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/3b200b3a-439b-4528-bcc2-00e606614d9b)
+![Screenshot 2024-06-14 043511](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/8a9b8920-c2c2-4fdf-bfa0-6ba02d5a5a51)
+![Screenshot 2024-06-14 043533](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/2b86c93e-41b8-43b6-bd64-18452ac4f8e1)
+![Screenshot 2024-06-14 043551](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/be7f56e3-a264-4de8-9314-bec5e9c02711)
+![Screenshot 2024-06-14 043606](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/788751ba-06af-4439-8612-89c2d78d0311)
+![Screenshot 2024-06-14 043622](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/64cf6c99-ac97-439b-ae18-189357f695c0)
+### QnA Maker For Q&A
+
 
 ## Tech Stack and Skills 🖥️🔧
 
