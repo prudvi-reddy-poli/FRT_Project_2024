@@ -2,7 +2,7 @@
 
 This web-based application is specifically developed for a health-related website targeting the Indian audience. The platform aims to provide comprehensive health information, resources, and services tailored to the unique needs of users in India.
 
-### This web-based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, GitHub, and EY.
+### This web-based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime
 
 **Project Link** - [Unity Health Hospital](https://red-cliff-085c6c700.5.azurestaticapps.net)
 
