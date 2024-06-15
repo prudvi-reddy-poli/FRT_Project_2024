@@ -15,6 +15,7 @@ This web-based application is specifically developed for a health-related websit
 - Visual Studio Code 🖥️📝
 - QnA Maker 🧠💡
 - Azure AI Bot Service 🤖🔧
+- Azure Repos
 
 ## Features and Functionalities 🌟
 
@@ -74,6 +75,13 @@ This web-based application is specifically developed for a health-related websit
 - With The help of the Language studio i make a qna maker for Q&A with this[test_fie.txt](https://github.com/user-attachments/files/15829560/test_fie.txt)
 where this contains the questioneries for to ask the Q&AQuestion
 
+### Core Azure Services & Azure AI Service
+![Screenshot 2024-06-15 191820](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/4097fcec-9c90-4574-a177-a0e4bc3c97d3)
+![Screenshot 2024-06-15 191653](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/89384560-ee54-48c8-ba7c-677894fc6157)
+![Screenshot 2024-06-15 191635](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/0bd40d0c-0d1a-47fc-9141-000a6d7a6064)
+![Screenshot 2024-06-15 191540](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/0633158d-75ec-4c66-9643-5dc90a940e93)
+
+![Screenshot 2024-06-15 191524](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/d5f04154-9120-4263-a588-2a33caec41fb)
 
 ## Tech Stack and Skills 🖥️🔧
 
