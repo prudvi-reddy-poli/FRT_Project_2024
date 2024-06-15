@@ -82,6 +82,7 @@ where this contains the questioneries for to ask the Q&AQuestion
 ![Screenshot 2024-06-15 191540](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/0633158d-75ec-4c66-9643-5dc90a940e93)
 
 ![Screenshot 2024-06-15 191524](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/d5f04154-9120-4263-a588-2a33caec41fb)
+![Screenshot 2024-06-15 192033](https://github.com/prudvi-reddy-poli/FRT_Project_2024/assets/170856909/2ac2a37c-72b0-454c-ab0c-58903aa40acf)
 
 ## Tech Stack and Skills 🖥️🔧
 
